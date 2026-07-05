@@ -56,6 +56,10 @@
     "\uE02F": ["horse"],
 
     "\uE030": ["raccoon"],
-    "\uE031": ["red_panda", "wah"]
+    "\uE031": ["red_panda", "wah"],
+    "\uE032": ["t_rex", "dinosaur", "theropod"],
+    "\uE033": ["brachiosaurus", "dinosaur2", "sauropod"],
+    "\uE034": ["spinosaurus", "dinosaur3", "theropod2"],
+    "\uE035": ["pterodactyl", "dinosaur4", "pterosaur"]
   }
 }
